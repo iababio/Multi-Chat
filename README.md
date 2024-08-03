@@ -1,5 +1,5 @@
 ---
-title: DeepInfra
+title: Multi-Chat
 emoji: 👁
 colorFrom: blue
 colorTo: pink
