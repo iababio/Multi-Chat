@@ -90,8 +90,7 @@ st.header(f"`{model_display_name}` Model")
 
 with st.expander("About this app"):
     st.write(f"""
-    This Chatbot app allows users to interact with various models including the new LLM models hosted on DeepInfra's OpenAI compatible API.
-    For more info, you can refer to [DeepInfra's documentation](https://deepinfra.com/docs/advanced/openai_api).
+    This Chatbot app allows users to interact with various models including the new LLM models.
 
     💡 For decent answers, you'd want to increase the `Max Tokens` value from `100` to `500`. 
     """)
